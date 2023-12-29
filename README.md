@@ -80,8 +80,3 @@ Replace `your_server_ip` with the actual IP address of your server.
 
 - **Customizing WildFly Configuration:** You can customize WildFly configurations in the `/opt/wildfly/standalone/configuration/` directory.
 
-Feel free to contribute or open issues if you encounter any problems!
-
-```
-
-Make sure to replace placeholders like `your_server_ip` with actual values, and consider providing additional information or troubleshooting tips as needed. Additionally, include any licensing or contribution guidelines relevant to your project.
